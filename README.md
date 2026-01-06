@@ -11,7 +11,18 @@ I am a statistics postgraduate with a strong foundation in **data analysis, expl
 
 ---
 
-## Tools & Skills
+## 📂 Projects
+
+### 1. Netflix Content Strategy & Recommendation Engine
+**Strategic Analysis | NLP | Machine Learning**
+* **Goal:** Analyze Netflix’s global catalog (8,800+ titles) to identify growth opportunities and improve user retention.
+* **Key Insights:** Identified high-potential markets (India, South Korea) and content gaps in the "Edutainment" and "Nostalgia" categories.
+* **Solution:** Built a **Content-Based Recommendation System** using Python (Scikit-Learn). It uses **TF-IDF** and **Cosine Similarity** to suggest movies based on plot descriptions and metadata.
+* **Tech Stack:** Python, Pandas, Seaborn, Scikit-Learn (NLP).
+* 🔗 **[View Project Repository](https://github.com/payalmundra/netflix-content-strategy)**
+---
+
+## 🛠️ Tools & Skills
 **Programming & Analysis**
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - R
@@ -32,6 +43,7 @@ I am a statistics postgraduate with a strong foundation in **data analysis, expl
 - Power BI
 
 ---
+
 
 ## Connect
 📧 Email: mundrapayal772@gmail.com  
