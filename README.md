@@ -20,6 +20,16 @@ I am a statistics postgraduate with a strong foundation in **data analysis, expl
 * **Solution:** Built a **Content-Based Recommendation System** using Python (Scikit-Learn). It uses **TF-IDF** and **Cosine Similarity** to suggest movies based on plot descriptions and metadata.
 * **Tech Stack:** Python, Pandas, Seaborn, Scikit-Learn (NLP).
 * 🔗 **[View Project Repository](https://github.com/payalmundra/netflix-content-strategy)**
+
+### 2. Aerofit Customer Segmentation & Sales Strategy
+**Probability Analysis | Statistical Testing | Random Forest**
+
+* **Goal:** Identify target audiences for Aerofit treadmills and optimize marketing through data-driven value segmentation.
+* **Insight:** High-income, highly fit users distinctly prefer Premium (KP781), while Entry-Level (KP281) and Mid-Tier (KP481) buyers are statistically identical (**validated via Kruskal-Wallis**).
+* **Solution:** Reframed from product prediction → **Mass Market vs. Premium**, boosting model accuracy from **64% → 94%** while enabling usage-based upselling strategies.
+* **Tech Stack:** Python, Pandas, Scikit-Learn, SciPy, Seaborn.
+
+🔗 **[View Project Repository](https://github.com/payalmundra/Aerofit-Customer-Segmentation)**
 ---
 
 ## 🛠️ Tools & Skills
