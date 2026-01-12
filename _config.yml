@@ -1,3 +1,5 @@
 # add the following to _config.yml file
 title: Payal Mundra
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
