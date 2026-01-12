@@ -29,7 +29,7 @@ I am a statistics postgraduate with a strong foundation in **data analysis, expl
 * **Situation:** Aerofit, a fitness equipment brand, struggled with inefficient ad spend due to undefined customer personas across its Entry-Level, Mid-Tier, and Premium treadmill lines.
 * **Task:** To build quantitative Customer Profiles using probability theory and develop a Predictive Model to target high-value users.
 * **Action:**
-   * Profiling (Probability & Statistics): Calculated Marginal, Joint & Conditional Probabilities to identify key buyer traits (e.g., P(Purchase | High Income)) and validated segment overlaps using Kruskal-Wallis Hypothesis Testing.
+   * Profiling (Probability & Statistics): Calculated Marginal, Joint & Conditional Probabilities to identify key buyer traits and validated segment overlaps using Kruskal-Wallis Hypothesis Testing.
    * Modeling (ML): Reframed the problem to binary classification (Mass Market vs. Premium) and trained a Random Forest Classifier to predict purchase probability.
 * **Result:**
    * Commercial Insight: Established that high-income, high-fitness users are the exclusive target for Premium products, enabling a targeted upselling strategy.
