@@ -50,8 +50,10 @@ I am a statistics postgraduate with a strong foundation in **data analysis, expl
 
 
 ## Connect
-📧 Email: mundrapayal772@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/payal-mundra-49a94225a/  
-📊 Tableau: https://public.tableau.com/app/profile/payal.mundra1651/vizzes  
+* **Email:** [mundrapayal772@gmail.com](mailto:mundrapayal772@gmail.com)
+* **LinkedIn:** [Payal Mundra](https://www.linkedin.com/in/payal-mundra/)
+* **Tableau:** [Payal Mundra](https://public.tableau.com/app/profile/payal.mundra1651/vizzes)
+* **Kaggle:** [Payal Mundra](https://www.kaggle.com/payalmundra)
+* **GitHub:** [Payal Mundra](https://github.com/payalmundra) 
 
 ---
